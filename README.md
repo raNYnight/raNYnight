@@ -3,7 +3,7 @@
 # 💫 About Me:
  ⚡ I`am currently studying at Rolling Scopes School on the JavaScript/Frontend-development course<br/>
  
- 🌱 I’m currently learning<br/>
+ 🌱 I’m currently learning TypeScript<br/>
  
  💬 Ask me about anything. I`ll answer if I can. :)<br/>
  
