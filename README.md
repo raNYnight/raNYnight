@@ -20,7 +20,6 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=raNYnight&icon=7&color=5)](https://visitcount.itsvg.in)
+
 
 
