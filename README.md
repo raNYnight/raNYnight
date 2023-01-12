@@ -12,6 +12,7 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/ranynighty#0973) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ranynigth) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ranynighty) 
 ## 📄 Projects:
+✔️ [Online Store](https://ranynight.github.io/online-store/#main/)<br/>
 ✔️ [Birdsong quiz](https://rolling-scopes-school.github.io/ranynight-JSFE2022Q3/songbird/birdsong.html)<br/>
 ✔️ [Online-zoo](https://rolling-scopes-school.github.io/ranynight-JSFE2022Q3/online-zoo/main/)<br/>
 ✔️ [Gem-puzzle game](https://rolling-scopes-school.github.io/ranynight-JSFE2022Q3/gem-puzzle/)<br/>
