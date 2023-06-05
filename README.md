@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 # 💫 About Me:
- ⚡ I`am currently studying at Rolling Scopes School on the JavaScript/Frontend-development course<br/>
+ ⚡ I'm a beginner frontend developer with experience in React, Redux\RTK, TypeScript, JavaScript, HTML, CSS, Webpack, Vite, and Figma.<br/>
  
- 🌱 I’m currently learning TypeScript<br/>
+ 🌱 I'm currently seeking new opportunities to work as a frontend developer. Feel free to check out my GitHub profile!<br/>
  
  💬 Ask me about anything. I`ll answer if I can. :)<br/>
  
@@ -23,8 +23,16 @@
 ✔️ [Portfolio project](https://rolling-scopes-school.github.io/ranynight-JSFEPRESCHOOL/portfolio)<br/>
 ✔️ [Eco-sounds project](https://rolling-scopes-school.github.io/ranynight-JSFEPRESCHOOL/eco-sounds/) <br/>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+## 💻 Tech Stack:
+* ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+* ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+* ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
+* ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+* ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+* ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+* ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge)
+* ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
+* ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=raNYnight&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
