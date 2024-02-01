@@ -1,18 +1,29 @@
-### Hi there 👋
-
 # 💫 About Me:
- ⚡ I'm a beginner frontend developer with experience in React, Redux\RTK, TypeScript, JavaScript, HTML, CSS, Webpack, Vite, and Figma.<br/>
+ I am a passionate frontend developer 🌟 with expertise in React and TypeScript. 
  
- 🌱 I'm currently seeking new opportunities to work as a frontend developer. Feel free to check out my GitHub profile!<br/>
+ Currently seeking an opportunity to apply my skills and gain valuable professional experience in the field. 
  
- 💬 Ask me about anything. I`ll answer if I can. :)<br/>
- 
-
+ I have successfully completed courses at Rolling Scopes School in JavaScript/Front-end 2022Q3 🏆 and React 2023 Q4 🏆.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/ranynighty#0973) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ranynigth) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ranynighty) 
-## 📄 Projects:
-✔️ [Human Benchmark](https://webmavericks-rsclone.netlify.app/#main)<br/>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ranynight) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rany4ka@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-baranouski-933b91258/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ranynigth) 
+
+## 💼 Projects 
+
+**Rolling Scopes School React 2023 Q4 - GraphiQL playground/IDE application** 🌐  
+   🏅 Certificate: [React Certificate](https://app.rs.school/certificate/xdbr0w52)<br/>
+   [GitHub](https://github.com/KuzikevichDavid/graphiql-app/pull/13)<br/>
+   [Deploy](https://develop--rsgraphiqlrs.netlify.app/)<br/>
+   Description: Developed a GraphiQL playground/IDE application for sending and receiving GraphQL requests using React, TypeScript, Redux, RTK (Redux Toolkit), Material-UI (MUI), and more. Collaborated with a team of three members, responsible for implementing authentication pages using Supabase Auth, writing tests, and conducting code reviews.
+
+  **Rolling Scopes School JavaScript/Front-end 2022Q3 - Human Benchmark application** 🌐  
+   🏅 Certificate: [JavaScript Certificate](https://app.rs.school/certificate/6oyzjrdp)  
+   [GitHub](https://github.com/raNYnight/RSClone)<br/>
+   [Deploy](https://webmavericks-rsclone.netlify.app/#main)<br/>
+   Description: Developed a Human Benchmark application with a team of three members. The application offers various interactive tests and games to measure and improve cognitive abilities. Tech stack included HTML, CSS/SASS, TypeScript, Chart.js, and more.
+   
+ **Study projects:**
+ 
 ✔️ [Online Store](https://ranynight.github.io/online-store/#main/)<br/>
 ✔️ [Birdsong quiz](https://rolling-scopes-school.github.io/ranynight-JSFE2022Q3/songbird/birdsong.html)<br/>
 ✔️ [Online-zoo](https://rolling-scopes-school.github.io/ranynight-JSFE2022Q3/online-zoo/main/)<br/>
